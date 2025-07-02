@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#4F46E5</color>
+    <color name="primary_variant">#3730A3</color>
+    <color name="secondary">#10B981</color>
+    <color name="secondary_variant">#059669</color>
+    <color name="background">#F9FAFB</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="error">#EF4444</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_secondary">#FFFFFF</color>
+    <color name="on_background">#1F2937</color>
+    <color name="on_surface">#1F2937</color>
+    <color name="on_error">#FFFFFF</color>
+    
+    <!-- Dark Theme Colors -->
+    <color name="primary_dark">#6366F1</color>
+    <color name="primary_variant_dark">#4F46E5</color>
+    <color name="secondary_dark">#34D399</color>
+    <color name="secondary_variant_dark">#10B981</color>
+    <color name="background_dark">#111827</color>
+    <color name="surface_dark">#1F2937</color>
+    <color name="error_dark">#F87171</color>
+    <color name="on_primary_dark">#FFFFFF</color>
+    <color name="on_secondary_dark">#FFFFFF</color>
+    <color name="on_background_dark">#F9FAFB</color>
+    <color name="on_surface_dark">#F9FAFB</color>
+    <color name="on_error_dark">#FFFFFF</color>
+    
+    <!-- Category Colors -->
+    <color name="rent_color">#F59E0B</color>
+    <color name="electricity_color">#3B82F6</color>
+    <color name="wifi_color">#8B5CF6</color>
+    <color name="groceries_color">#10B981</color>
+    <color name="maintenance_color">#6B7280</color>
+    <color name="food_color">#EF4444</color>
+    <color name="travel_color">#EC4899</color>
+    <color name="entertainment_color">#F97316</color>
+    <color name="education_color">#0EA5E9</color>
+    <color name="shopping_color">#14B8A6</color>
+    <color name="health_color">#84CC16</color>
+    <color name="other_color">#6B7280</color>
+</resources>
